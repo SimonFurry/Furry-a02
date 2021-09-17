@@ -1,0 +1,15 @@
+
+J
+java:S1874"/Remove this use of "getYear"; it is deprecated.(íÎ•Ðùÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(øšä|
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ì—Ã¦
+<
+java:S1110""!Remove these useless parentheses.(ÚÃ¶öùÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(²ðüÿÿÿÿ
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(Æåïø8Ãèí§¿/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(›Ïûûÿÿÿÿ8Ãèí§¿/
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷áÉËûÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡û€Ì
+k	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡”ÿìûÿÿÿÿ
+f	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÀö’
+k	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÃ¶öùÿÿÿÿ

@@ -1,0 +1,16 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(…–í¦ûÿÿÿÿ8ÏÃØ¯¿/
+M
+java:S1172"+Remove this unused method parameter "args".(ÆİĞıÿÿÿÿ8ßÃØ¯¿/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(İ‰®è8ßÃØ¯¿/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(™†ÌÀ8ßÃØ¯¿/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Â›úF8ßÃØ¯¿/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹îª©ıÿÿÿÿ8ßÃØ¯¿/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ÍÒ«Şúÿÿÿÿ8ßÃØ¯¿/
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(§ò³õşÿÿÿÿ8ßÃØ¯¿/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(‰¸·ëùÿÿÿÿ8ßÃØ¯¿/
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(õª‘8ßÃØ¯¿/
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(²ÅàÇ8ßÃØ¯¿/
+d
+java:S2184'"BCast one of the operands of this addition operation to a "double".(¾²ÉËùÿÿÿÿ8ßÃØ¯¿/
