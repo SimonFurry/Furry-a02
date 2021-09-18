@@ -1,0 +1,9 @@
+
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š‘…ûıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãîİúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÁöÍÁ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ”‡ò
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ßÆ•Ğùÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ñûŸÇÿÿÿÿÿ
+f	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´®—¿
