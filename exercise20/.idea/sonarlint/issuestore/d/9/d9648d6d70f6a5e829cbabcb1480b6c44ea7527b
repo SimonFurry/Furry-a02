@@ -1,0 +1,16 @@
+
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(‘…ϋύÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¬… 
+S	java:S106"9Replace this use of System.out or System.err by a logger.(έ©ΥΣώÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ίάρωÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(εέΦ
+M	java:S106*"9Replace this use of System.out or System.err by a logger.(‘ξτ"
+M	java:S1060"9Replace this use of System.out or System.err by a logger.(‘ξτ"
+M	java:S1067"9Replace this use of System.out or System.err by a logger.(‘ξτ"
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(°Η³£
+f
+java:S1192*"QDefine a constant instead of duplicating this literal ".
+The total is $" 3 times.(‘ξτ"
+b
+java:S1192*"MDefine a constant instead of duplicating this literal "The tax is $" 3 times.(‘ξτ"

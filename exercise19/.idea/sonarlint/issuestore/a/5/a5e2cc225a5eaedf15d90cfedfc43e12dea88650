@@ -1,0 +1,9 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²å´‘
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Š€˜ƒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(İÙ¨
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ¼›ùÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(òÛ»„úÿÿÿÿ
+c
+java:S1192"MDefine a constant instead of duplicating this literal "Your BMI is " 3 times.(İÙ¨
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†„„Ûûÿÿÿÿ
